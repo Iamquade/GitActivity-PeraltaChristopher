@@ -1,3 +1,3 @@
-print ("Christopher Peralta")
-print ("Barangay Uno Buenavista Marinduque")
-print ("January 22, 2001")
+print ("Marinduque States College")
+print ("Information Technology")
+print ("Second Year, Section: F")
